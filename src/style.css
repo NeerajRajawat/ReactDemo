@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    margin: 50px;
+}
+h1{
+    border: 3px solid darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    border: 5px solid rebeccapurple;
+    border-radius: 20px;
+    padding: 10px;
+}
